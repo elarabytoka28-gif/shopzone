@@ -104,8 +104,8 @@ The `db.json` includes a ready-to-use demo account:
 
 | Field | Value |
 |-------|-------|
-| Email | `john@example.com` |
-| Password | `password123` |
+| Email | `toto@gmail.com` |
+| Password | `toto1234` |
 
 ---
 
